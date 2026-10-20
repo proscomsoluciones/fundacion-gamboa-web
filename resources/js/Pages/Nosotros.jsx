@@ -46,7 +46,7 @@ export default function Nosotros({ historia, mision, vision, directivos = [], co
             {/* Header Banner */}
             <div className="bg-gradient-to-r from-rose-50 via-white to-slate-50 text-slate-900 py-14 sm:py-18 border-b border-rose-100">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center sm:text-left">
-                    <span className="text-xs font-bold text-rose-600 uppercase tracking-widest block mb-2">Conócenos</span>
+                    <span className="text-xs font-bold text-rose-600 uppercase tracking-widest block mb-2">Conócenos · Fundada el 04-07-2022</span>
                     <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-slate-950">Sobre Nuestra Fundación</h1>
                     <p className="text-slate-700 text-base sm:text-lg max-w-3xl mt-3 font-semibold">
                         Fundación del Cáncer Miguel Ángel Gamboa — Trabajando junto a la comunidad de Catemu y el Servicio de Salud Aconcagua por el bienestar de nuestros pacientes postrados y sus familias.

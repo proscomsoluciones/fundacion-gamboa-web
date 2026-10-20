@@ -40,9 +40,12 @@ export default function Footer() {
                         <p className="text-slate-600 text-sm leading-relaxed pt-2">
                             Organización dedicada al apoyo integral de pacientes y familias en el proceso oncológico, facilitando ayudas técnicas de salud (camas clínicas, sillas de ruedas, catres) de manera digna y gratuita.
                         </p>
-                        <div className="pt-1 flex items-center space-x-3">
+                        <div className="pt-1 flex flex-wrap items-center gap-2">
                             <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-rose-100 text-rose-700 border border-rose-200">
                                 Juntos Contra el Cáncer
+                            </span>
+                            <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-slate-200 text-slate-700 border border-slate-300">
+                                Fundada el 04-07-2022
                             </span>
                         </div>
                     </div>
